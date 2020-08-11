@@ -1,9 +1,9 @@
-<p align="center">
+<h1 align="center">
     <samp>
         Hair Style Transfer
         <br /><br /><br />
     </samp>
-</p>
+</h1>
 
 | Content | Style | Result |
 | :---: | :---: | :---: |
