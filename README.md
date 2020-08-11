@@ -1,5 +1,3 @@
-# hair_style_transfer
-
 <p align="center">
     <samp>
         Hair Style Transfer
