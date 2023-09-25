@@ -1,9 +1,11 @@
 <h1 align="center">
     <samp>
         Hair Style Transfer
-        <br /><br /><br />
+        <br /><br /><br />+
     </samp>
 </h1>
+
+<h3>Wait image will load in few seconds!</h3>
 
 | Content | Style | Result |
 | :---: | :---: | :---: |
